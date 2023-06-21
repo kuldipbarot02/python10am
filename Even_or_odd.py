@@ -1,7 +1,7 @@
-# Write a Python program to find whether a given number is even or odd, print out an appropriate message to the user.
+#  Write a Python program to find whether a given number is even or odd, print out an appropriate message to the user.
+n=int(input("Enter N : "))
 
-n=int(input("Enter n : "))
 if n%2==0:
     print("i am even")
-else: 
+else:
     print("i am odd")
